@@ -1,0 +1,17 @@
+.cabeçalho{
+    background-color: blue;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+
+.alura_imagem{
+  width: 15%;
+
+}
+
+.texto_alura{
+display: inline;
+margin: 30%;
+
+}
